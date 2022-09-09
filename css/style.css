@@ -1,0 +1,16 @@
+.nav a{
+	color: red;
+}
+.text > p{
+	color: blue;
+}
+.ronin-end p{
+	color: red;
+}
+.ronin-end > h2{
+	color: gray;
+}
+
+.footer a{
+	color: blue;
+}
